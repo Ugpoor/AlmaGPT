@@ -5,9 +5,6 @@
 
 <h1 align="center">Alma Chat</h1>
 <div align="center">
-  <a href="https://github.com/GaiZhenBiao/ChuanhuChatGPT">
-    <img src="https://github.com/GaiZhenbiao/ChuanhuChatGPT/assets/70903329/aca3a7ec-4f1d-4667-890c-a6f47bf08f63" alt="Logo" height="156">
-  </a>
 
 <p align="center">
     <h3>基于各大语言模型的对话工具</h3>
